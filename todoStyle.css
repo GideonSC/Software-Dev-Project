@@ -5,10 +5,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0;
 }
 
 .todo-container {
+    
+    margin: 0;
     background: white;
     padding: 20px;
     border-radius: 8px;
